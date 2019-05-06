@@ -1,5 +1,7 @@
 # FACE IT! POSITIONING WITH CSS
 
+[Terminal Help](https://github.com/codebug-us/NashWD-1A)
+
 ##### Setup
 - Click the green "Clone or Download" button on this page, and then click "Download Zip".
 - Now we're going to unzip the zipped file into the `coding` folder we made earlier. Your zipped file was probably downloaded into your `Downloads` folder, so `cd` into the directory where the zipped file is located.  
